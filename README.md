@@ -17,9 +17,9 @@ Ini adalah landing page untuk **JWebDev**, sebuah proyek fiktif yang menyediakan
 
 ## 📖 Tentang Proyek
 
-Di era digital, banyak UMKM di Indonesia masih kesulitan memperluas pasar karena belum memiliki website.  [cite_start]Kendala utamanya adalah biaya yang dianggap mahal, kurangnya pengetahuan teknis, dan minimnya akses ke penyedia jasa yang terpercaya. 
+Di era digital, banyak UMKM di Indonesia masih kesulitan memperluas pasar karena belum memiliki website.  Kendala utamanya adalah biaya yang dianggap mahal, kurangnya pengetahuan teknis, dan minimnya akses ke penyedia jasa yang terpercaya. 
 
-**JWebDev** hadir sebagai solusi untuk menjembatani kesenjangan tersebut.  [cite_start]Proyek ini bertujuan untuk menyediakan layanan pembuatan website yang tidak hanya terjangkau, tetapi juga mudah dipesan dan dikelola oleh pemilik usaha tanpa memerlukan keahlian teknis khusus. 
+**JWebDev** hadir sebagai solusi untuk menjembatani kesenjangan tersebut.  Proyek ini bertujuan untuk menyediakan layanan pembuatan website yang tidak hanya terjangkau, tetapi juga mudah dipesan dan dikelola oleh pemilik usaha tanpa memerlukan keahlian teknis khusus. 
 
 ---
 
